@@ -8,7 +8,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  background: linear-gradient(to bottom, #2b3e50, #d6eaff);
+  background: linear-gradient(to bottom, #232f3a, #d6eaff);
   min-height: 100vh;
 }
 
